@@ -24,6 +24,8 @@
     "spawn-animations",
     "storage-delight",
     "structory",
+    "supermartijn642s-config-lib",
+    "supermartijn642s-core-lib",
     "terrablender",
     "tool-trims",
     "tree-harvester",
@@ -35,6 +37,7 @@
   ]
 
 }
+
 
 
 
