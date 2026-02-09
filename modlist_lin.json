@@ -3,24 +3,26 @@
   "loader": "neoforge",
   "allowed_release_types": ["release","beta"],
   "mods": [
-    "entitytexturefeatures",
-    "architectury-api",
     "balm",
     "biomes-o-plenty",
     "burning-flesh",
+    "c2me-neoforge",
     "chunk-loaders",
     "collective",
     "cooking-for-blockheads",
     "elytra_chestplate",
+    "ferrite-core",
     "geckolib",
     "glitchcore",
     "hearths",
     "jei",
+    "ore-harvester",
     "konkrete",
     "octo-lib",
     "ore-harvester",
     "security-craft",
     "shulkerboxtooltip",
+    "skinrestorer",
     "simple-voice-chat",
     "spawn-animations",
     "storage-delight",
@@ -37,3 +39,4 @@
   ]
 
 }
+
