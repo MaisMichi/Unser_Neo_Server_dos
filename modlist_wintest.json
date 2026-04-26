@@ -1,0 +1,41 @@
+{
+  "minecraft_version": "1.21.10",
+  "loader": "neoforge",
+  "allowed_release_types": ["release","beta"],
+  "mods": [
+    "entitytexturefeatures",
+    "architectury-api",
+    "balm",
+    "biomes-o-plenty",
+    "burning-flesh",
+    "chunk-loaders",
+    "collective",
+    "cooking-for-blockheads",
+    "elytra_chestplate",
+    "geckolib",
+    "glitchcore",
+    "hearths",
+    "jei",
+    "konkrete",
+    "octo-lib",
+    "ore-harvester",
+    "security-craft",
+    "shulkerboxtooltip",
+    "simple-voice-chat",
+    "spawn-animations",
+    "storage-delight",
+    "structory",
+    "supermartijn642s-core-lib",
+    "supermartijn642s-config-lib",
+    "terrablender",
+    "tool-trims",
+    "tree-harvester",
+    "uncraft-everything",
+    "vanishmod",
+    "waystones",
+    "xaeros-minimap",
+    "xaeros-world-map"
+  ]
+
+}
+
